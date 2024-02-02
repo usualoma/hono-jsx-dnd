@@ -1,0 +1,19 @@
+{
+  "name": "hono-jsx-dnd",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "hono": "../../honojs/hono",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8"
+  }
+}
